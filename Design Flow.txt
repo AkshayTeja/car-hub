@@ -1,0 +1,14 @@
+Create next js project
+Remove everything in page.tsx and edit as needed
+Create components folder
+Add Hero.tsx into components folder
+Add index.ts in components folder and import, export from it and into it, acts as a pseudo file
+Add globals.css and tailwind.config.js as required
+Edit Hero.tsx
+Add CustomButton.tsx file as a component to reuse the button multiple times
+Create new folder types to specify what gets what props and create an index.ts inside it to create an interface CustomButtonProps
+Add required assets into public folder
+Add Navbar, Footer into layout.tsx
+Create Navbar.tsx and edit as required
+Create Footer.tsx and edit as required
+
