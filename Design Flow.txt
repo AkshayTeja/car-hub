@@ -11,4 +11,7 @@ Add required assets into public folder
 Add Navbar, Footer into layout.tsx
 Create Navbar.tsx and edit as required
 Create Footer.tsx and edit as required
-
+Next make Car catalogue, edit page.tsx
+Create component CustomFilter.tsx and SearchBar.tsx
+Edit SearchBar.tsx and make SearchManufacturer.tsx component
+To create Combo box, use headlessUI and edit SearchManufacturers.tsx
