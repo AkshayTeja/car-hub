@@ -14,4 +14,7 @@ Create Footer.tsx and edit as required
 Next make Car catalogue, edit page.tsx
 Create component CustomFilter.tsx and SearchBar.tsx
 Edit SearchBar.tsx and make SearchManufacturer.tsx component
-To create Combo box, use headlessUI and edit SearchManufacturers.tsx
+To create Combo box, use headlessUI and edit SearchManufacturers.tsx and import props into SearchBar.tsx
+Go to RapidAPI website, get required Cars API, create index.ts file under utils folder and copy the code in website to index.ts
+Edit main page.tsx to fetch all cars
+Create CarCard component as required and make sure to include interface in type folder
